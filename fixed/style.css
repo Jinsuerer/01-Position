@@ -1,0 +1,16 @@
+*{
+    margin: o;
+}
+.fixed{
+    background-color: cornflowerblue;
+    padding: 20px;
+    position: fixed;
+}
+.sticky{
+    background-color: burlywood;
+    padding: 10px;
+    position: sticky;
+    top: 0px;
+    
+}
+
